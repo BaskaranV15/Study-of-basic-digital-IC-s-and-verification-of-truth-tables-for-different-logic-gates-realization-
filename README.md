@@ -78,13 +78,15 @@ Program to verify the truth table in quartus for the basic logic gates using Ver
 ## Developed by: BASKARAN V
 ## RegisterNumber:  212222230020
 ## Logic symbol & Truthtable
-![digitalell](https://user-images.githubusercontent.com/118703522/230300971-a998a90a-1ccb-4f98-a9c9-f8281d333ec1.png)
+![truthtable](https://user-images.githubusercontent.com/118703522/230301615-38b61c6f-723f-485e-8064-af374f2c650f.png)
+
 
 
 ## Output:
 ![OUTPUT](ex1digitalgates.png)
 ## WAVEFORM
-![OUTPUT](waveformex1.png)
+![digitalell](https://user-images.githubusercontent.com/118703522/230301360-0c7741d3-2f94-4050-9bd6-1e7e243902e1.png)
+
 
 Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
